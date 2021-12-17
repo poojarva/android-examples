@@ -9,6 +9,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.TextView;
 
+// hI this is commit
 public class MainActivity extends AppCompatActivity {
 
     private String LOGTAG = getClass().getSimpleName().toString();
